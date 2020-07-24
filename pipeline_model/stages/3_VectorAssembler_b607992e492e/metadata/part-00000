@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.VectorAssembler","timestamp":1593625179629,"sparkVersion":"3.0.0-preview2","uid":"VectorAssembler_b607992e492e","paramMap":{"outputCol":"vectorized_features","inputCols":["yas","meslek_encoded","sehir_encoded","aylik_gelir"]},"defaultParamMap":{"handleInvalid":"error","outputCol":"VectorAssembler_b607992e492e__output"}}

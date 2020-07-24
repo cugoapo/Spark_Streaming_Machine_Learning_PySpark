@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.StringIndexerModel","timestamp":1593625179757,"sparkVersion":"3.0.0-preview2","uid":"StringIndexer_39107b0346d2","paramMap":{"outputCol":"label","inputCol":"ekonomik_durum"},"defaultParamMap":{"handleInvalid":"error","outputCol":"StringIndexer_39107b0346d2__output","stringOrderType":"frequencyDesc"}}

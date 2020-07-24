@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.OneHotEncoderModel","timestamp":1593625179054,"sparkVersion":"3.0.0-preview2","uid":"OneHotEncoder_b00654c11d42","paramMap":{"inputCols":["meslek_indexer","sehir_indexer"],"outputCols":["meslek_encoded","sehir_encoded"]},"defaultParamMap":{"handleInvalid":"error","dropLast":true,"outputCol":"OneHotEncoder_b00654c11d42__output"}}

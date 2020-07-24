@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.StringIndexerModel","timestamp":1593625178526,"sparkVersion":"3.0.0-preview2","uid":"StringIndexer_d17ea3a6887a","paramMap":{"outputCol":"sehir_indexer","inputCol":"sehir","handleInvalid":"skip"},"defaultParamMap":{"outputCol":"StringIndexer_d17ea3a6887a__output","handleInvalid":"error","stringOrderType":"frequencyDesc"}}
